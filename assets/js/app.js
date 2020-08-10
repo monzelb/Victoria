@@ -28,7 +28,7 @@ $( document ).ready(function() {
 
 
   var timer;
-  $(".connect, .briefcase").click(function(){
+  $(".connect, #coffee").click(function(){
     // $(".slidy-social").css("visibility", "visible");
     if($(".slidy-social").css("right") === "0px"){
       $(this).children(".menu-items").css({"background-color": "#748bb2", "color": "white"});

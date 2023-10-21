@@ -1,9 +1,9 @@
 body {
     font-family: "Lato", sans-serif;
     z-index:0;
-    height: 100%
+    height: 100%;
     width: 100%;
-    letter-spacing:1px;
+    letter-spacing: 1px;
 }
 
 #contents{
@@ -31,9 +31,8 @@ body {
 }
 
 .webdev {
-  font-size:16px;
-/*  margin-left: 110px;
-*/}
+  font-size: 18px;
+}
 
 .my-name{
   font-size: 67px;

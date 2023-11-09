@@ -267,7 +267,7 @@ body {
 }
 
 .portfolio-header{
-  margin-bottom:10px;
+  margin-bottom:30px;
 }
 
 .portfolio-container{
@@ -303,7 +303,7 @@ body {
 
 .caption {
   position:absolute;
-  background:rgba(21, 33, 51, 0.9);
+  background:rgba(21, 33, 51, 0.75);
   height:100%;
   width:100%;
   margin:0%;
